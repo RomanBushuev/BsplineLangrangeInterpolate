@@ -1,0 +1,4 @@
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\bin\Debug\HomeWorkBushuev.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\bin\Debug\HomeWorkBushuev.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\HomeWorkBushuev.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\HomeWorkBushuev.pdb

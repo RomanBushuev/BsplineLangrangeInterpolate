@@ -1,0 +1,34 @@
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkUserInterface.exe.config
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkUserInterface.exe
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkUserInterface.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.Properties.Resources.resources
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.csproj.GenerateResource.Cache
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.exe
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.xml
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkBushuev.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkBushuev.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.MainForm.resources
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkUserInterface.exe.config
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.exe
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.pdb
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkUserInterface.exe
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkUserInterface.pdb
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkBushuev.dll
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.dll
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.WindowsForms.dll
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\HomeWorkBushuev.pdb
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.pdb
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.xml
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.WindowsForms.pdb
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\bin\Debug\OxyPlot.WindowsForms.xml
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.csprojResolveAssemblyReference.cache
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.MainForm.resources
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.Properties.Resources.resources
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkUserInterface\obj\Debug\HomeWorkUserInterface.csproj.GenerateResource.Cache

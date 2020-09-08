@@ -1,6 +1,6 @@
 # BsplineLangrangeInterpolate
-B-spline, Langrange and First and Second Derivative.
+Cube-spline, Langrange and First and Second Derivatives.
 
-Use csv files to download data.
+Use .txt files to download data.
 
 Pictures can be kept to .png and .pdf formats.

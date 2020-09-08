@@ -1,0 +1,10 @@
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\bin\Debug\HomeWorkBushuev.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\bin\Debug\HomeWorkBushuev.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\BushuevHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\HomeWorkBushuev.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\HomeWorkBushuev.pdb
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkBushuev\bin\Debug\HomeWorkBushuev.dll
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkBushuev\bin\Debug\HomeWorkBushuev.pdb
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\BushuevHomeWork.csprojResolveAssemblyReference.cache
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\HomeWorkBushuev.dll
+B:\OneDrive\Магистр\Гордин Владимир Александрович\Большая домашняя работа\HomeWorkBushuev\HomeWorkBushuev\obj\Debug\HomeWorkBushuev.pdb

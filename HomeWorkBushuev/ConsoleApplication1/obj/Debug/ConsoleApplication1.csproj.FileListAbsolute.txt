@@ -1,0 +1,8 @@
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\bin\Debug\HomeWorkBushuev.dll
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\bin\Debug\HomeWorkBushuev.pdb
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Роман\Source\Repos\NewRepo2\HomeWorkBushuev\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
